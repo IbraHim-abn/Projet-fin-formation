@@ -81,8 +81,8 @@ public class SendEmail extends HttpServlet {
                        phone = request.getParameter("phone"); 
                           msg = request.getParameter("message"); 
           /***/
-         String username="mycount125@gmail.com";
-         String password="Nxiv8338";
+         String username="********@gmail.com";
+         String password="*********";
           
           /****/
           Properties properties = new Properties();
